@@ -5,5 +5,5 @@
 ### skills
 `machine learning` `computer vision` `python` `unit tests` `C++`
 
-### repos
+### projects
 - [Which YuGiOh! card are you?](https://github.com/mlojek/which-yugioh-card-are-you) `machine learning` `python`
