@@ -1,6 +1,6 @@
 🎓 CS junior @ FEIT WUT  
 🎓 major in AI/ML  
-🔬 active member of AI Science Society "Golem" (@KNSI-Golem)  
+🔬 active member of [AI Science Society "Golem"](https://github.com/KNSI-Golem)  
 🐧 Linux and FOSS enjoyer
 
 ### skills
