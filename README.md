@@ -8,3 +8,5 @@
 
 ### projects
 - [Which YuGiOh! card are you?](https://github.com/mlojek/which-yugioh-card-are-you) `machine learning` `python`
+
+### recreational programming
