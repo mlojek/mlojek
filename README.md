@@ -4,7 +4,7 @@
 🐧 Linux and FOSS enjoyer
 
 ### skills
-`machine learning` `computer vision` `python` `unit tests` `C++` `linux`
+`machine learning` `computer vision` `python` `unit tests` `C++` `linux` `arduino`
 
 ### projects
 - [which YuGiOh! card are you?](https://github.com/mlojek/which-yugioh-card-are-you) `machine learning` `python`
