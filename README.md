@@ -7,6 +7,7 @@
 `machine learning` `computer vision` `python` `unit tests` `C++` `linux`
 
 ### projects
-- [Which YuGiOh! card are you?](https://github.com/mlojek/which-yugioh-card-are-you) `machine learning` `python`
+- [which YuGiOh! card are you?](https://github.com/mlojek/which-yugioh-card-are-you) `machine learning` `python`
+- [rpg dialogues](https://github.com/mlojek/rpg-dialogues) `C++` `unit tests`
 
 ### recreational programming
