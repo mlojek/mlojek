@@ -12,3 +12,4 @@
 - [reddit image scraper](https://github.com/mlojek/reddit-image-scraper) `python`
 
 ### recreational programming
+- [spoj](https://github.com/mlojek/spoj) `python` `C++`
