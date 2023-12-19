@@ -1,8 +1,7 @@
+🔬 President of [AI Science Society "Golem"](https://github.com/KNSI-Golem)  
 💼 ML engineer and researcher @ [AI division of WUT](https://ai.ii.pw.edu.pl/en/about/)  
 🎓 CS junior and ML major @ WUT  
-🔬 active member of [AI Science Society "Golem"](https://github.com/KNSI-Golem)  
 🐧 Linux and FOSS enjoyer  
-💻 clean code preacher
 
 ### skills
 `machine learning` `python` `C++`  
