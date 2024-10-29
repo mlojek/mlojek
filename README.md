@@ -8,7 +8,7 @@
 `machine learning` `python` `C++`  
 
 ### projects
-- [metamodels in evalution strategy - my master's thesis](https://github.com/mlojek/which-yugioh-card-are-you) `machine learning` `python` `CI`
+- [metamodels in evalution strategy - my master's thesis](https://github.com/mlojek/sofes) `machine learning` `python` `CI`
 - [which YuGiOh! card are you?](https://github.com/mlojek/which-yugioh-card-are-you) `machine learning` `python`
 - [rpg dialogues](https://github.com/mlojek/rpg-dialogues) `C++` `unit tests`
 - [reddit image scraper](https://github.com/mlojek/reddit-image-scraper) `python`
