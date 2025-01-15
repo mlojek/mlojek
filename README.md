@@ -5,11 +5,14 @@
 🐧 Linux and FOSS enjoyer  
 
 ### skills
-`machine learning` `python` `C++`  
+`machine learning` `pytorch` `python` `docker` `airflow` `unit tests` `CI` `C++`
 
 ### projects
-- [metamodels in evalution strategy - my master's thesis](https://github.com/mlojek/optilab) `machine learning` `python` `CI`
-- [which YuGiOh! card are you?](https://github.com/mlojek/which-yugioh-card-are-you) `machine learning` `python`
+- [optilab](https://github.com/mlojek/optilab) - framework for black box optimization `machine learning` `python` `CI`
+- [which YuGiOh! card are you?](https://github.com/mlojek/which-yugioh-card-are-you) `machine learning` `python` `tensorflow`
 - [rpg dialogues](https://github.com/mlojek/rpg-dialogues) `C++` `unit tests`
 - [reddit image scraper](https://github.com/mlojek/reddit-image-scraper) `python`
 - [arduino gesture recognition device](https://github.com/mlojek/atlas-one) `arduino` `C++`
+
+### publications
+TBA
