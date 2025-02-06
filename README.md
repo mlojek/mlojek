@@ -5,10 +5,10 @@
 🐧 Linux and FOSS enjoyer  
 
 ### skills
-`machine learning` `pytorch` `python` `docker` `airflow` `unit tests` `CI` `C++`
+`machine learning` `pytorch` `python` `docker` `airflow` `unit tests` `CI/CD` `scikit-learn` `C++`
 
 ### projects
-- [optilab](https://github.com/mlojek/optilab) - framework for black box optimization `machine learning` `python` `CI`
+- [optilab](https://github.com/mlojek/optilab) - framework for black box optimization `machine learning` `python` `CI/CD`
 - [which YuGiOh! card are you?](https://github.com/mlojek/which-yugioh-card-are-you) `machine learning` `python` `tensorflow`
 - [rpg dialogues](https://github.com/mlojek/rpg-dialogues) `C++` `unit tests`
 - [reddit image scraper](https://github.com/mlojek/reddit-image-scraper) `python`
