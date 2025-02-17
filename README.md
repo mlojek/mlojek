@@ -18,7 +18,6 @@ Machine Learning engineer dedicated to writing high quality code that speaks for
 - [codemate](https://github.com/mlojek/codemate) - AI coding assistant `machine learning` `langchain` `llm` `python`
 - [which YuGiOh! card are you?](https://github.com/mlojek/which-yugioh-card-are-you) `machine learning` `python` `tensorflow`
 - [rpg dialogues](https://github.com/mlojek/rpg-dialogues) `C++` `unit tests`
-- [reddit image scraper](https://github.com/mlojek/reddit-image-scraper) `python`
 - [arduino gesture recognition device](https://github.com/mlojek/atlas-one) `arduino` `C++`
 
 ### publications
