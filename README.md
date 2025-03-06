@@ -19,7 +19,3 @@ Machine Learning engineer dedicated to writing high quality code that speaks for
 - [which YuGiOh! card are you?](https://github.com/mlojek/which-yugioh-card-are-you) `machine learning` `python` `tensorflow`
 - [rpg dialogues](https://github.com/mlojek/rpg-dialogues) `C++` `unit tests`
 - [arduino gesture recognition device](https://github.com/mlojek/atlas-one) `arduino` `C++`
-
-### publications
-- [Coming soon]
-- [Coming soon]
