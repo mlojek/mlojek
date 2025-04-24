@@ -13,10 +13,34 @@ Machine Learning engineer dedicated to writing high quality code that speaks for
 - devops: `docker` `CI/CD` `unit testing` `airflow`  
 - hobby: `arduino`  
 
-### projects
-- [optilab](https://github.com/mlojek/optilab) - framework for black-box optimization `machine learning` `python` `CI/CD`
-- [neuroevolution](https://github.com/mlojek/cma_neuroevolution) - training neural networks with CMA-ES `pytorch` `machine learning` `wandb.ai` `python`
-- [codemate](https://github.com/mlojek/codemate) - AI coding assistant `machine learning` `langchain` `llm` `python`
-- [which YuGiOh! card are you?](https://github.com/mlojek/which-yugioh-card-are-you) `machine learning` `python` `tensorflow`
-- [rpg dialogues](https://github.com/mlojek/rpg-dialogues) `C++` `unit tests`
-- [arduino gesture recognition device](https://github.com/mlojek/atlas-one) `arduino` `C++`
+# projects
+
+### [optilab](https://github.com/mlojek/optilab)
+`machine learning` `python` `CI/CD` `docker`
+
+Framework for black-box optimization that I used in my research on metamodels in CMA-ES. It's available in pypi and dockerhub and features continous deployment pipelines. 
+
+### [neuroevolution](https://github.com/mlojek/cma_neuroevolution)
+`pytorch` `machine learning` `wandb.ai` `python`
+
+Research project in which I trained neural networks with CMA-ES algorithm.
+
+### [codemate](https://github.com/mlojek/codemate)
+`machine learning` `langchain` `llm` `python`
+
+AI coding assistant that helps the developer with mundane tasks.
+
+### [which YuGiOh! card are you?](https://github.com/mlojek/which-yugioh-card-are-you)
+`machine learning` `python` `tensorflow`
+
+Computer Vision program that matches image with the most similar YuGiOh! card.
+
+### [rpg dialogues](https://github.com/mlojek/rpg-dialogues)
+`C++` `unit tests`
+
+C++ library for non-linear dialogues in roleplaying games.
+
+### [arduino gesture recognition device](https://github.com/mlojek/atlas-one)
+`arduino` `C++`
+
+Arduino device to navigate the computer with hand gestures.
