@@ -18,6 +18,8 @@ Machine Learning engineer dedicated to writing high quality code that speaks for
 ### [optilab](https://github.com/mlojek/optilab)
 `machine learning` `python` `CI/CD` `docker`
 
+[pypi](https://pypi.org/project/optilab/) • [readthedocs](https://optilab.readthedocs.io/en/latest/) • [dockerhub](https://hub.docker.com/r/mlojek/optilab)
+
 Framework for black-box optimization that I used in my research on metamodels in CMA-ES. It's available in pypi and dockerhub and features continous deployment pipelines. 
 
 ### [neuroevolution](https://github.com/mlojek/cma_neuroevolution)
