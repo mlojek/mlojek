@@ -20,7 +20,7 @@ Machine Learning engineer dedicated to writing high quality code that speaks for
 
 Framework for black-box optimization that I used in my research on metamodels in CMA-ES. It's available in [pypi](https://pypi.org/project/optilab/) and [dockerhub](https://hub.docker.com/r/mlojek/optilab) and features continuous deployment pipelines. It's documented on [readthedocs](https://optilab.readthedocs.io/en/latest/).
 
-### [neuroevolution](https://github.com/mlojek/cma_neuroevolution)
+### [cma-es neuroevolution](https://github.com/mlojek/cma_neuroevolution)
 `pytorch` `machine learning` `wandb.ai` `python`
 
 Research project in which I trained neural networks using CMA-ES algorithm.
