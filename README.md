@@ -13,22 +13,24 @@ Machine Learning engineer dedicated to writing high quality code that speaks for
 - devops: `docker` `CI/CD` `unit testing` `airflow`  
 - hobby: `arduino`  
 
-## Projects
+## Featured projects
 
 ### [optilab](https://github.com/mlojek/optilab)
 `machine learning` `python` `CI/CD` `docker`
 
-Framework for black-box optimization that I used in my research on metamodels in CMA-ES. It's available in [pypi](https://pypi.org/project/optilab/) and [dockerhub](https://hub.docker.com/r/mlojek/optilab) and features continuous deployment pipelines. It's documented on [readthedocs](https://optilab.readthedocs.io/en/latest/).
+Optilab is a Python framework designed to streamline the prototyping and benchmarking of black-box optimization algorithms. It offers a comprehensive suite of tools for comparative analysis and results reporting, including statistical tests and visualizations like ECDF and convergence plots. Optilab is readily accessible via [PyPI](https://pypi.org/project/optilab/) and [Docker Hub](https://hub.docker.com/r/mlojek/optilab), with comprehensive documentation hosted on [Read the Docs](https://optilab.readthedocs.io/en/latest/). The project utilizes continuous deployment pipelines to ensure timely delivery of new versions upon each release.
 
 ### [cma-es neuroevolution](https://github.com/mlojek/cma_neuroevolution)
 `pytorch` `machine learning` `wandb.ai` `python`
 
-Research project in which I trained neural networks using CMA-ES algorithm.
+This project investigated the application of the CMA-ES metaheuristic for training neural networks. While deep learning traditionally relies on gradient-based optimization methods like SGD and Adam, CMA-ES represents a state-of-the-art black-box optimization algorithm known for its efficiency and performance. This research compared the performance of CMA-ES against traditional gradient-based approaches in the context of training neural networks, analyzing the results to evaluate the potential of CMA-ES in this domain.
 
 ### [codemate](https://github.com/mlojek/codemate)
 `machine learning` `langchain` `llm` `python`
 
-AI coding assistant that helps the developer with mundane tasks.
+Codemate is a command-line interface (CLI) coding assistant designed to alleviate mundane and repetitive tasks in software development. Leveraging large language models (LLMs) such as those powering ChatGPT and GitHub Copilot, Codemate provides developers with tools to efficiently document code, clarify complex sections of source code, and generate new code based on specific requirements.
+
+## Other projects
 
 ### [which YuGiOh! card are you?](https://github.com/mlojek/which-yugioh-card-are-you)
 `machine learning` `python` `tensorflow`
