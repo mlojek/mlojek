@@ -9,6 +9,7 @@ Machine Learning engineer dedicated to writing high quality code that speaks for
 ## Skills
 - languages: `Python` `C++`
 - machine learning: `pytorch` `scikit-learn` `langchain` `wandb.ai`
+- multi-agent systems: `crewai`
 - data science: `numpy` `pandas`
 - devops: `docker` `CI/CD` `unit testing` `airflow`  
 - hobby: `arduino`  
@@ -46,3 +47,8 @@ C++ library for non-linear dialogues in roleplaying games.
 `arduino` `C++`
 
 Arduino device to navigate the computer with hand gestures.
+
+### [headstart](https://github.com/mlojek/headstart)
+`mutli-agent systems` `crewai` `llm` `python`
+
+A multi-agent LLM system to kickstart a new software development project.
