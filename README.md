@@ -52,3 +52,8 @@ Arduino device to navigate the computer with hand gestures.
 `mutli-agent systems` `crewai` `llm` `python`
 
 A multi-agent LLM system to kickstart a new software development project.
+
+### [Lion optimizer](https://github.com/mlojek/lion-optimizer)
+`pytorch` `python`
+
+An implementation of [Lion optimizer](https://arxiv.org/abs/2302.06675) discovered by Google Brain.
