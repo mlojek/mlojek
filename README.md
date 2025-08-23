@@ -8,7 +8,8 @@ Machine Learning engineer dedicated to writing high quality code that speaks for
 
 ## Skills
 - languages: `Python` `C++`
-- machine learning: `pytorch` `scikit-learn` `langchain` `wandb.ai`
+- machine learning: `pytorch` `scikit-learn` `wandb.ai`
+- GenAI: `langchain` `RAG`
 - multi-agent systems: `crewai`
 - data science: `numpy` `pandas`
 - devops: `docker` `CI/CD` `unit testing` `airflow`  
@@ -20,6 +21,11 @@ Machine Learning engineer dedicated to writing high quality code that speaks for
 `machine learning` `python` `CI/CD` `docker`
 
 Optilab is a Python framework designed to streamline the prototyping and benchmarking of black-box optimization algorithms. It offers a comprehensive suite of tools for comparative analysis and results reporting, including statistical tests and visualizations like ECDF and convergence plots. Optilab is readily accessible via [PyPI](https://pypi.org/project/optilab/) and [Docker Hub](https://hub.docker.com/r/mlojek/optilab), with comprehensive documentation hosted on [Read the Docs](https://optilab.readthedocs.io/en/latest/). The project utilizes continuous deployment pipelines to ensure timely delivery of new versions upon each release.
+
+### [booktalk](https://github.com/mlojek/booktalk)
+`GenAI` `RAG` `langchain` `streamlit`
+
+Don't want to read a book? Chat about it with this AI chatbot instead. This GenAI RAG application allows user to talk to a virtual assistant about a given book, allowing them to understand it better and quicker. With a user-friendly GUI made in streamlit, anybody can use it without any technical knowledge. Booktalk comes in handy when you have a boring school reading to do, nobody to discuss your favourite books with, or when you just need a little reminder of the plot. 
 
 ### [cma-es neuroevolution](https://github.com/mlojek/cma_neuroevolution)
 `pytorch` `machine learning` `wandb.ai` `python`
