@@ -1,7 +1,7 @@
 Machine Learning engineer dedicated to writing high quality code that speaks for itself.
 
 ## About me
-🤖 GenAI engineer @ Accenture
+🤖 GenAI engineer @ Accenture  
 🔬 Former president of [AI Science Society "Golem"](https://github.com/KNSI-Golem)  
 💼 Former ML engineer and researcher @ [AI division of WUT](https://ai.ii.pw.edu.pl/en/about/)  
 🎓 Graduated as BEng in CS and ML @ WUT  
